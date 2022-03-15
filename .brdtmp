@@ -1,0 +1,46 @@
+# prop: name, color group, cost, mortgage_gain, house_cost, rent, rent_house 1...5
+# todo: support for uk/aussie by Boardwalk/Mayfair
+
+"15
+go
+prop,Mediterranean Avenue,Brown,60,30,50,2,10,30,90,160,
+card,CommunityChest,
+prop,Baltic Avenue,Brown,60,30,50,4,20,60,180,320,
+tax,Income Tax,200,
+rail,Reading Railroad,
+prop,Oriental Avenue,Cyan,100,
+card,Chance,
+prop,Vermont,Cyan,100,
+prop,Connecticut Avenue,Cyan,120,
+noneplace,Jail/Just Visiting,
+prop,St Charles' Place,Magneta,140,
+util,Electric Company,
+prop,States Avenue,Magneta,140,
+prop,Virginia Avenue,Magneta,160,
+rail,Pennsylvania Railroad,
+prop,St James' Place,Orange,180,
+card,CommunityChest,
+prop,Tennessee Avenue,Orange,180,
+prop,New York Avenue,Orange,200,
+noneplace,Free Parking,
+prop,Kentucky Avenue,Red,220,
+card,Chance,
+prop,Indiana Avenue,Red,220,
+prop,Illinois Avenue,Red,240,
+rail,B & O Railroad,
+prop,Atlantic Avenue,Yellow,260,
+prop,Ventnor Avenue,Yellow,260,
+util,Water Works,
+prop,Marvin Gardens,Yellow,280,
+jail
+prop,Pacific Avenue,Green,300,
+prop,North Carolina Avenue,Green,300,
+card,CommunityChest,
+prop,Pennsylvania Avenue,Green,320,
+rail,Short Line,
+card,Chance,
+prop,Park Place,Blue,350,
+tax,Luxury Tax,150,
+prop,Boardwalk,Blue,350,
+
+
